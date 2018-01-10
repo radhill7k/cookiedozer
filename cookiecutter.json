@@ -1,12 +1,12 @@
 {
-    "full_name": "Raphael Pierzina",
-    "email": "raphael@hackebrot.de",
-    "github_username": "hackebrot",
+    "full_name": "R Hilman Hermarian",
+    "email": "radhill7k@gmail.com",
+    "github_username": "radhill7k",
     "app_title": "Hello World",
     "app_class_name": "{{cookiecutter.app_title|replace(' ', '')}}App",
     "repo_name": "{{cookiecutter.app_title|replace(' ', '')|lower}}",
     "short_description": "A sleek slideshow app that supports swipe gestures.",
     "version": "0.1.0",
-    "kivy_version": "1.8.0",
-    "year": "2015"
+    "kivy_version": "1.10.0",
+    "year": "2018"
 }
